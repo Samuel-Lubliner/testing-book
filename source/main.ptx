@@ -5,7 +5,7 @@
   <xi:include href="./docinfo.ptx" />
 
   <book xml:id="my-great-book">
-    <title>Only run on when merging into main Test 1</title>
+    <title>Only run on when merging into main Test 9</title>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
